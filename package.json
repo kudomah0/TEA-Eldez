@@ -1,6 +1,6 @@
 {
   "name": "eldez-tea",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Calculator For TeaProject Testnet",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,5 @@
   "dependencies": {
     "express": "^4.18.2",
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {}
+  }
 }

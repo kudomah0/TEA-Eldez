@@ -1,14 +1,11 @@
-# Simple Calculator Project
+# Simple Calculator Project for TEA TestNET
 
 Ini adalah proyek kalkulator sederhana yang dibuat menggunakan Node.js.
-
-## Instalasi
-
-
-
-## Penggunaan
-
->.<
+untuk TEA Testnet
+## By
+Eldez
+Discord: eldez.
+github: https://github.com/kudomah0
 
 ## Kontribusi
 
@@ -16,4 +13,4 @@ Kontribusi adalah selalu diterima dengan hangat! Jika Anda memiliki ide untuk me
 
 ## Lisensi
 
-[Lisensi Anda di sini]
+[Eldez]
