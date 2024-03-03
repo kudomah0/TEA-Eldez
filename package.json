@@ -2,22 +2,27 @@
   "name": "eldez-tea",
   "version": "1.1.0",
   "description": "Calculator For TeaProject Testnet",
-  "main": "index.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "index.html"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kudomah0/eldez-tea.git"
+    "url": "https://github.com/kudomah0/TEA-Eldez.git",
+    "type": "npm",
+    "url": "https://www.npmjs.com/package/eldez-tea"
   },
   "keywords": [],
   "author": "eldez",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kudomah0/eldez-tea/issues"
+  "license": {
+  "type" : "MIT",
+  "url": "https://www.opensource.org/licenses/mit-license.php"
   },
-  "homepage": "https://github.com/kudomah0/eldez-tea#readme",
+  "bugs": {
+    "url": "hhttps://github.com/kudomah0/TEA-Eldez/issues"
+  },
+  "homepage": "https://github.com/kudomah0/TEA-Eldez#readme",
   "dependencies": {
     "express": "^4.18.2",
     "readline-sync": "^1.4.10"
