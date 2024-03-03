@@ -9,9 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kudomah0/TEA-Eldez.git",
-    "type": "npm",
-    "url": "https://www.npmjs.com/package/eldez-tea"
+    "url": "https://github.com/kudomah0/TEA-Eldez.git"
   },
   "keywords": [],
   "author": "eldez",
